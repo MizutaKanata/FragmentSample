@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menuThanksFrame" type="id" />
+    <item name="tvMenuName" type="id" />
+    <item name="tvMenuPrice" type="id" />
+    <item name="btBackButton" type="id" />
+</resources>
